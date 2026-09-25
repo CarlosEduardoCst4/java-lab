@@ -1,5 +1,7 @@
 package Atividades.Exercicio2;
 
+import Streams.Alunos;
+
 public class ProjetoPessoa {
     static void main(String[] args) {
         Pessoa p1 = new Pessoa();

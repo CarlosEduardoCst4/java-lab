@@ -1,4 +1,4 @@
-package fundamentos;
+package Fundamentos;
 
 public class Inferencia {
     static void main(String[] args) {
